@@ -30,6 +30,12 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Show line number
+set nu
+
+" Color scheme
+colorscheme solarized
+
 " Sets how many lines of history VIM has to remember
 set history=500
 
