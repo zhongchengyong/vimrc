@@ -1,3 +1,4 @@
+set nofoldenable
 if has("mac") || has("macunix")
     #colorscheme solarized
     colorscheme macvim
@@ -6,3 +7,4 @@ else
         colorscheme solarized
     endif
 endif
+
